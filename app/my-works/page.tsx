@@ -44,7 +44,7 @@ const MyWorks: NextPage = ({}) => {
     >
       <div className="px-5 pt-20 flex flex-col gap-2 md:px-25 lg:px-70 transition-all">
         <span className="font-normal md:font-medium text-3xl md:text-4xl">
-          These aren't just concepts but are real shipped products delivering
+          These aren&apos;t just concepts but are real shipped products delivering
           real-world results.
         </span>
         <span className="text-[color:var(--color-primary-color)] pt-6 pb-[1rem]">

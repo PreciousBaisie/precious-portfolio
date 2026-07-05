@@ -3,8 +3,6 @@
 
 import { NextPage } from "next";
 import MyImage from "../assets/images/me.jpg";
-import Safelynk from "../assets/images/safelynk.svg";
-import Viibre from "../assets/images/viibre-icon.webp";
 // import WeWire from "../assets/images/wewire.svg";
 // import BuddyVotes from "../assets/images/buddy-votes.svg";
 // import Xharp from "../assets/images/xharp.svg";
@@ -78,7 +76,7 @@ const About: NextPage = ({}) => {
 
           <div className="overflow-x-hidden relative w-full">
             <div className="flex animate-marquee space-x-5 items-center flex-row whitespace-nowrap w-max">
-              {Array(10).fill(0).map((_) => {
+              {Array(10).fill(0).map(() => {
                 return (
                   projectLogos.map((image, index) => {
                     if (isValidElement(image.logo)) {
