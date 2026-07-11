@@ -21,7 +21,7 @@ const projects: {
     role: "Product Designer",
     duties: "Product Design, UX Research, Visual Design",
     image: project1,
-    url: "figma.com/design/yLon2IQFKwIQwbJWq3zvHm/Prototyping?node-id=98-255&t=PhekqnHVj7xzNkmG-1",
+    url: "https://figma.com/design/yLon2IQFKwIQwbJWq3zvHm/Prototyping?node-id=98-255&t=PhekqnHVj7xzNkmG-1",
     description:
       "Designed a swipe-based mobile marketplace that solves Ghana's online shopping trust problem through vendor verification, escrow payments, and on-platform buyer-vendor communication. Built end-to-end from research and wireframes to high-fidelity prototype.",
   },
